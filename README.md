@@ -9,7 +9,7 @@ Firstly install required libraries a g4f and the discord client and pillow for s
 
 `pip install g4f || pip install discord.py || pip install pillow`
 
-To make code running automatically on startup Windows put main.py on path 
+To make code running automatically on startup Windows put main.py or discordaiandcontroller.bat on path (make sure if you choose discordaiandcontroller.bat if you have changed C:\Users\pc\PycharmProjects\pythonProject\.venv\main.py to your path) 
 
 __C:\Users\\(you)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup__
 
