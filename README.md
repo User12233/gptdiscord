@@ -3,7 +3,7 @@
 ## Usage
 `/chat (message)`
 ### Assistant to make job on pc easier
-![example](https://github.com/user-attachments/assets/e99ed856-1f3d-4340-9c2d-4e93eceebc98)
+![example](https://github.com/user-attachments/assets/9c1aea3e-7838-4e03-abb9-ffcc5c9f9d20)
 ## Usage
 `/chatcomp (message) (takescreenshot, True/False)`
 ## Install
