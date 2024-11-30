@@ -1,10 +1,10 @@
-### GPT
+## GPT
 ![example](https://github.com/user-attachments/assets/c210d8b4-5011-4619-ab80-0b1e4660933f)
-## Usage
+### Usage
 `/chat (message)`
-### Assistant to make job on pc easier
+## Assistant to make job on pc easier
 ![example](https://github.com/user-attachments/assets/9c1aea3e-7838-4e03-abb9-ffcc5c9f9d20)
-## Usage
+### Usage
 `/chatcomp (message) (takescreenshot, True/False)`
 ## Install
 Firstly install required libraries a g4f and the discord client and pillow for screenshots
